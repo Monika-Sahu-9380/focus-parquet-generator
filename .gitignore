@@ -1,0 +1,26 @@
+## Build results
+bin/
+obj/
+
+## User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio files
+.vs/
+
+## Rider
+.idea/
+
+## OS junk
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+
+## Parquet output (optional – recommended)
+*.parquet
